@@ -1,0 +1,21 @@
+id,Loan Amount,Term,State,Annual Income,Income Verification Status,Average Account Balance,Due Amount,Home Ownership,Loan Purpose,Due Settlement,Installment Amount,Payment Plan,Approve Loan
+101,10000,24,TX,80000,Verified,15000,40,RENT,Medical Expenses,N,350,Y,1
+102,12000,36,FL,90000,Partially Verified,20000,60,MORTGAGE,Debt Consolidation,Y,400,N,1
+103,6000,12,CA,55000,Not Verified,10000,10,OWN,Car Loan,N,150,N,0
+104,15000,48,NY,100000,Verified,25000,180,MORTGAGE,Home Improvement,N,450,Y,1
+105,8000,24,TX,65000,Partially Verified,11000,30,RENT,Education,Y,250,Y,0
+106,9000,36,FL,70000,Not Verified,12000,40,OWN,Other,Y,300,Y,1
+107,18000,60,CA,120000,Verified,35000,250,MORTGAGE,Travel,N,550,Y,1
+108,7000,12,NY,60000,Partially Verified,10000,20,RENT,Car Loan,N,150,N,0
+109,10000,48,TX,80000,Not Verified,15000,80,OWN,Medical Expenses,Y,350,Y,1
+110,13000,24,FL,95000,Verified,18000,100,RENT,Other,Y,400,N,1
+111,16000,36,CA,110000,Verified,20000,120,MORTGAGE,Business,N,450,Y,1
+112,12000,12,NY,90000,Partially Verified,16000,60,OWN,Debt Consolidation,Y,300,Y,1
+113,8000,48,TX,70000,Not Verified,12000,30,MORTGAGE,Car Loan,N,200,N,0
+114,10000,24,FL,75000,Verified,13000,40,RENT,Medical Expenses,Y,250,Y,0
+115,22000,60,CA,120000,Partially Verified,35000,200,MORTGAGE,Education,Y,550,Y,1
+116,6000,12,NY,55000,Not Verified,10000,0,OWN,Other,N,150,N,0
+117,9000,36,TX,70000,Verified,12000,50,RENT,Car Loan,Y,300,Y,1
+118,15000,24,FL,95000,Verified,18000,80,OWN,Travel,N,400,N,1
+119,8000,48,CA,65000,Partially Verified,11000,20,MORTGAGE,Home Improvement,N,250,Y,0
+120,7000,12,NY,60000,Not Verified,10000,10,RENT,Education,N,150,N,0
